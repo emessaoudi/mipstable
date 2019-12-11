@@ -245,7 +245,7 @@ syscall
 jr $k0
 
 #----------------------------------------
-#Reverse Row Operation
+#Reverse Column Operation
 #----------------------------------------
 
 start5: jal reversecol
